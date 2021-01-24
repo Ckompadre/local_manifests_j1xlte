@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <project name="Ckompadre/android_device_samsung_j1xlte"                 path="device/samsung/j1xlte"                remote="github"         revision="cm-14.1" />
+    <project name="Ckompadre/android_kernel_samsung_j1xlte"                 path="kernel/samsung/j1xlte"                remote="github"         revision="cm-14.1" />
+    <project name="Ckompadre/android_vendor_samsung_j1xlte"                 path="vendor/samsung/j1xlte"                remote="github"         revision="cm-14.1" />
+    <project name="Ckompadre/android_system_tools_dtbtool"                  path="system/tools/dtbtool"                 remote="github"         revision="cm-14.1" />
+
+    <project name="LineageOS/android_device_qcom_common"                    path="device/qcom/common"                   remote="github"         revision="cm-14.1" />
+    <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos"       path="hardware/samsung_slsi-cm/exynos"      remote="github"         revision="cm-14.1" />
+    <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos3475"   path="hardware/samsung_slsi-cm/exynos3475"  remote="github"         revision="cm-14.1" />
+    <project name="LineageOS/android_hardware_samsung"                      path="hardware/samsung"                     remote="github"         revision="cm-14.1" />
+    <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos5"      path="hardware/samsung_slsi-cm/exynos5"     remote="github"         revision="cm-14.1" />
+    <project name="LineageOS/android_hardware_samsung_slsi-cm_openmax"      path="hardware/samsung_slsi-cm/openmax"     remote="github"         revision="cm-14.1" />
+    <project name="LineageOS/android_packages_apps_SamsungServiceMode"      path="packages/apps/SamsungServiceMode"     remote="github"         revision="cm-14.1" />
+
+</manifest>
