@@ -13,5 +13,6 @@
     <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos5"      path="hardware/samsung_slsi-cm/exynos5"     remote="github"         revision="cm-14.1" />
     <project name="LineageOS/android_hardware_samsung_slsi-cm_openmax"      path="hardware/samsung_slsi-cm/openmax"     remote="github"         revision="cm-14.1" />
     <project name="LineageOS/android_packages_apps_SamsungServiceMode"      path="packages/apps/SamsungServiceMode"     remote="github"         revision="cm-14.1" />
+    <project name="LineageOS/android_external_busybox"                      path="external/busybox"                     remote="github"         revision="cm-14.1" />
 
 </manifest>
